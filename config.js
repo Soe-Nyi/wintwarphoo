@@ -1,0 +1,50 @@
+var config = {
+  texts: [
+    "Your friendship is a precious gift",
+    "that fills my life",
+    "with laughter and beautiful memories.",
+    "On this special day,",
+    "may your smile shine as brightly as always,",
+    "and may each moment be filled with",
+    "happiness,",
+    "love,",
+    "and everything wonderful.",
+    "Cheers to",
+    "another year of",
+    "incredible adventures",
+    "and cherished moments together.",
+    "Here's to you,",
+    "an amazing friend",
+    "who deserves all",
+    "the happiness in the world!",
+    "Happy Birthday",
+    "Wint War Phoo",
+  ],
+  imgs: {
+    "Wint War Phoo": "./imgs/wintwarphoo.jpg",
+  },
+  desc: {
+    turn_on: "Turn On Lights",
+    play: "Play Music",
+    bannar_coming: "Let's Decorate",
+    balloons_flying: "Fly With Balloons",
+    cake_fadein: "Most Delicious Cake Ever",
+    light_candle: "Light Candle",
+    wish_message: "Happy Birthday",
+    story: "A mesage for you",
+  },
+};
+
+/*
+        "Happy Birthday to the one who fills my life with joy and love!",
+        "Wishing you a day filled with endless smiles and beautiful memories. Happy Birthday!",
+        "May your day be as beautiful as you are. Happy Birthday, my friend!",
+        "To the girl who brings sunshine to every moment, happiest of birthdays!",
+        "Happy Birthday to the one who makes my world brighter just by being in it.",
+        "On your special day, I wish you all the happiness and love in the world. Happy Birthday!",
+        "Cheers to the most amazing person I know. Happy Birthday!",
+        "Every day with you is a gift. Wishing you the happiest of birthdays!",
+        "May this year bring you all the success and happiness you deserve. Happy Birthday!",
+        "Happy Birthday to the one who steals my heart every single day.",
+        "Wint War Phoo"
+        */
